@@ -22,4 +22,3 @@
   ![Snake animation](https://github.com/2victor2/2victor2/blob/output/github-contribution-grid-snake.svg)
   
   </div>
-- 💬 Ask me about ...
