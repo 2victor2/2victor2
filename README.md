@@ -1,12 +1,11 @@
 ### Hi there 👋 I'm Victor!
   
-  <a href="https://github.com/2victor2">
-  <img height="180em" width="52%" src="https://github-readme-stats.vercel.app/api?username=2victor2&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2victor2&layout=compact&theme=midnight-purple&hide_border=true"/>
-  
-  <br/>
-  
-  <img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=2victor2&theme=midnight-purple&hide_border=true"/>
+  ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2victor2&theme=gruvbox)
+  ##
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2victor2&theme=gruvbox)
+  ![Languages per commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2victor2&theme=gruvbox)
+  ##
+  [![GitHub Streak](https://streak-stats.demolab.com?user=2victor2&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
   
   ##
   <div style="display: inline_block"><br>
@@ -30,6 +29,6 @@
   </div>
    
   
-  
+  ##
   ![Snake animation](https://github.com/2victor2/2victor2/blob/output/github-contribution-grid-snake.svg)
 
