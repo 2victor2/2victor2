@@ -2,9 +2,6 @@
   
   ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2victor2&theme=gruvbox)
   ##
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2victor2&theme=gruvbox)
-  ![Languages per commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2victor2&theme=gruvbox)
-  ##
   [![GitHub Streak](https://streak-stats.demolab.com?user=2victor2&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
   
   ##
